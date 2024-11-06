@@ -1,0 +1,4 @@
+*.log
+*.db
+*.ora
+network/admin/*.ora
